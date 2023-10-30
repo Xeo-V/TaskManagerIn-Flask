@@ -1,0 +1,5 @@
+pip install Flask
+env\scripts\activate.bat
+
+--makes so that anything installed is not globally
+pip install flask flask-sqlalchemy
